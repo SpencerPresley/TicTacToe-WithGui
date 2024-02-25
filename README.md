@@ -1,3 +1,8 @@
+# Compiling
+I use VSCode, what I do is the following:  
+- javac *.java
+- java GameController
+
 ## tic-tac-toe game implementaion using a simple GUI and AI for computer moves
 
 ### Model (GameModel.java)
