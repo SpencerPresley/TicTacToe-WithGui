@@ -3,6 +3,9 @@ I use VSCode, what I do is the following:
 - javac *.java
 - java GameController
 
+# Github link
+>https://github.com/SpencerPresley/TicTacToe-WithGui
+
 ## tic-tac-toe game implementaion using a simple GUI and AI for computer moves
 
 ### Model (GameModel.java)
